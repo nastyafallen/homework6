@@ -1,1 +1,4 @@
 /homework6.iml
+*.iml
+/out/
+/.idea/
